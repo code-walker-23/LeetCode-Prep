@@ -31,8 +31,8 @@ public:
 
                 level.push_back(parent->val);
 
-               TreeNode* leftChild = parent->left;
-               TreeNode* rightChild = parent->right;
+                TreeNode* leftChild = parent->left;
+                TreeNode* rightChild = parent->right;
 
                 if(leftChild != NULL)
                     q.push(leftChild);
