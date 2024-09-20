@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0118-pascals-triangle) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
