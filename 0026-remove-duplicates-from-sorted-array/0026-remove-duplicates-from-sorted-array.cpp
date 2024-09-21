@@ -62,6 +62,7 @@ public:
         // }
         // return res;
 
+        // In-place and time complexity -> O(n)
         int n = nums.size();
         int res = 1;
 
