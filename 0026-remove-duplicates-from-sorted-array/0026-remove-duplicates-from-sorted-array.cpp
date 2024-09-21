@@ -43,23 +43,35 @@ public:
     //         }
     //     }
     //     return count;
-    // }
+    // 
+
+        // Out-of-pace and O(n)
+        // int n = nums.size();
+        // int temp[n];
+        // temp[0] = nums[0];
+        // int res = 1;
+
+        // for(int i = 1; i < n; i++){
+        //     if(temp[res-1] != nums[i]){
+        //         temp[res] = nums[i];
+        //         res++;
+        //     }
+        // }
+        // for(int i = 0; i < n; i++){
+        //     nums[i] = temp[i];
+        // }
+        // return res;
 
         int n = nums.size();
-        int temp[n];
-        temp[0] = nums[0];
         int res = 1;
 
         for(int i = 1; i < n; i++){
-            if(temp[res-1] != nums[i]){
-                temp[res] = nums[i];
+            if(nums[res-1] != nums[i]){
+                nums[res] = nums[i];
                 res++;
             }
         }
-        for(int i = 0; i < n; i++){
-            nums[i] = temp[i];
-        }
-        return res;
+        
+        return res; // it takes the sub-array from on the basis of the size of the distinct elements 
     }
-
 };
