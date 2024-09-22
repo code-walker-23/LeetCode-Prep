@@ -30,7 +30,7 @@ public:
             }
         }
         
-        if(count == n)return;
+        if(count == n || count == 0)return;
 
         for(int i = 1; i <= count; i++){
             for(int j = 0; j < n-1; j++){
