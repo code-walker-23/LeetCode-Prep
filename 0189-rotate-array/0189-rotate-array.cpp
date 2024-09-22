@@ -71,9 +71,13 @@ public:
         // }
         // printNums(nums);
         if(k == 0)return;
+        // reverseArr(nums,0,n-1);
+        // reverseArr(nums,0,k-1);
+        // reverseArr(nums,k,n-1);
+
+        reverseArr(nums,n-k,n-1);
+        reverseArr(nums,0,n-k-1);
         reverseArr(nums,0,n-1);
-        reverseArr(nums,0,k-1);
-        reverseArr(nums,k,n-1);
 
     }
 };
