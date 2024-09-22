@@ -42,15 +42,25 @@ public:
         // }
 
          // 3rd Sol - >Time Complexity -> O(n^2) and Space -> O(1)
+        // for(int i = 0; i < n; i++){
+        //     if(nums[i] == 0){
+        //         for(int j = i+1; j < n; j++){
+        //             if(nums[j] != 0){
+        //                 nums[i] = nums[j];
+        //                 nums[j] = 0;
+        //                 break;
+        //             }
+        //         }
+        //     }
+        // }
+
+        int count = 0;
         for(int i = 0; i < n; i++){
-            if(nums[i] == 0){
-                for(int j = i+1; j < n; j++){
-                    if(nums[j] != 0){
-                        nums[i] = nums[j];
-                        nums[j] = 0;
-                        break;
-                    }
-                }
+            if(nums[i] != 0){
+                int temp = nums[count];
+                nums[count] = nums[i];
+                nums[i] = temp;
+                count++;
             }
         }
 
