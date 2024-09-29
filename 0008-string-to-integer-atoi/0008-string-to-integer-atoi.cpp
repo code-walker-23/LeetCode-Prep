@@ -45,6 +45,7 @@ public:
         unordered_set<char> se = {'0','1','2','3','4','5','6','7','8','9'};
         for(int i = 0; i < n; i++){
             if(s[i] == ' ' && isConsec){
+                
             }else if((s[i] == '+' || s[i] == '-') && flag && !leadingZero && !num){
                 sign = s[i];
                 flag = false;
