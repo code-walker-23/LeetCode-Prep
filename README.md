@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0189-rotate-array) |
+| [2050-count-good-numbers](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
