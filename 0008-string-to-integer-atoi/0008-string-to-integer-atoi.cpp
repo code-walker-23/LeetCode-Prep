@@ -28,7 +28,6 @@ public:
         
         // checking digit char
         while(i < n && se.count(s[i])){
-        // we have to use this conditon here otherwise after the whole loop it may be larger than long type
             if(num*sign < INT_MIN/10 || (num*sign == INT_MIN/10 && (s[i]-'0')>8)){
                 return INT_MIN;
             }else if(num*sign > INT_MAX/10 || (num*sign == INT_MAX/10 && (s[i]-'0')>7)){
@@ -37,7 +36,6 @@ public:
             num = num*10 + (s[i]-'0');
             i++;
 
-            // // we have to use this conditon here otherwise after the whole loop it may be larger than long type
             // if(num*sign < INT_MIN){
             //     return INT_MIN;
             // }else if(num*sign > INT_MAX){
