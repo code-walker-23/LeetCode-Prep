@@ -1,17 +1,22 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        // x^0 -> becomes 1
-        if(n == 0){
-            return 1;
-        }    
-        double temp = myPow(x,n/2);
-        temp *= temp;
-        // if x is odd then -> x^37 -> x^18 * x^18 * x 
-        if(n%2){
-            return n < 0 ? temp*1/x : temp*x;
-        }else{
-            return temp;
+        long long a = n;
+        if(n<0)a = -1*a;
+
+        double ans = 1;
+
+        while(a>0){
+            if(a%2){
+                ans = ans*x;
+                a = a-1;
+            }else{
+                x = x*x;
+                a = a/2;
+            }
         }
+
+        if(n<0)return 1/ans;
+        return ans;
     }
 };
