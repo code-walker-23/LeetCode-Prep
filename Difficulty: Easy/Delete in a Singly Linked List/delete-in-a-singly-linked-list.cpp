@@ -42,8 +42,10 @@ class Solution {
   public:
     /* Function to delete a node from a linked list */
     Node* deleteNode(Node* head, int x) {
+        // list is empty
         if(head == NULL)return head;
-
+        
+        // list is non-empty length >= 1
         Node* prev = NULL;
         Node* curr = head;
         int currPosition = 1;
@@ -54,14 +56,15 @@ class Solution {
             prev = temp;
             currPosition++;
         }
-
-        if(prev == NULL){
+        // if prev == NULL that means the node to be delete is the first node in the list
+        // we could also handle this above
+       if(prev == NULL){
             head = head->next;
             return head;
         }
-
+        // node to be deleted is somewhere the middle node in the list
         prev->next = curr->next;
-        return head;
+        return head; // return the head of the new list
 
     }
 };
