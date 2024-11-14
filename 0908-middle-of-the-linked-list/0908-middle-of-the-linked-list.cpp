@@ -63,6 +63,7 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
+        // Tortoise and Hare method
         ListNode* slow = head;
         ListNode* fast = head;
 
