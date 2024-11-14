@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0283-move-zeroes) |
+| [0908-middle-of-the-linked-list](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2050-count-good-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
