@@ -42,7 +42,7 @@ public:
             slow = slow->next;
             fast = fast->next->next;
         }
-        // that means it has even length then we have to return the second largest
+        // that means it has even length then we have to return the second largest because slow return the first middle we have to check for even length -> while breaks the last postion -> lastNode->next == NULL -> breaks for even length
         if(fast != NULL){
             return slow->next;
         }
