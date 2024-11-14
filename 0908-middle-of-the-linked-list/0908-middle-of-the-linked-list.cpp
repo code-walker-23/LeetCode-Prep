@@ -11,23 +11,42 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        int length = 1;
-        ListNode* temp = head;
+        // naive solution
+        // int length = 1;
+        // ListNode* temp = head;
 
-        while(temp->next != NULL){
-            temp = temp->next;
-            length++;
-        }
-        cout << length << endl;
+        // while(temp->next != NULL){
+        //     temp = temp->next;
+        //     length++;
+        // }
+        // cout << length << endl;
 
-        int middle = length/2+1;
-        temp = head;
-        int currPos = 1;
-        // when curr position becomes equals to middle it loops break
-        while(currPos < middle){
-            temp = temp->next;
-            currPos++;
+        // int middle = length/2+1;
+        // temp = head;
+        // int currPos = 1;
+        // // when curr position becomes equals to middle it loops break
+        // while(currPos < middle){
+        //     temp = temp->next;
+        //     currPos++;
+        // }
+        // return temp;
+
+        if(head->next == NULL){
+            return head;
         }
-        return temp;
+
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+
+        while(fast != NULL && fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        // that means it has even length then we have to return the second largest
+        if(fast != NULL){
+            return slow->next;
+        }
+        return slow;
+
     }
 };
