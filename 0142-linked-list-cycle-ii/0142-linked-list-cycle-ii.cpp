@@ -13,7 +13,7 @@ public:
         unordered_set<ListNode*> visited;
 
         while(curr != NULL){
-            if(visited.find(curr) != visited.end())
+            if(visited.contains(curr))
                 return curr;
             else{    
                 visited.insert(curr);
