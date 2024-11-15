@@ -10,15 +10,14 @@
  */
 class Solution {
 public:
-    ListNode* newHead = NULL;
-    void reverseLL(ListNode* &prev,ListNode* curr){
+    void reverseLL(ListNode* &prev,ListNode* curr,ListNode* &newHead){
         if(curr == NULL){
             newHead = prev;
             return;
         }
         ListNode* nxt = curr->next;
         curr->next = prev;
-        reverseLL(curr,nxt);
+        reverseLL(curr,nxt,newHead);
     }
     ListNode* reverseList(ListNode* head) {
         // we will handle all edge cases
@@ -38,8 +37,9 @@ public:
         
         ListNode* prev = NULL;
         ListNode* curr = head;
+        ListNode* newHead;
 
-        reverseLL(prev,curr);
+        reverseLL(prev,curr,newHead);
         return newHead;
 
     }
