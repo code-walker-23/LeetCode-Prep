@@ -10,37 +10,22 @@
  */
 class Solution {
 public:
-    void reverseLL(ListNode* &prev,ListNode* curr,ListNode* &newHead){
+    ListNode* reverseLL(ListNode* prev,ListNode* curr){
         if(curr == NULL){
-            newHead = prev;
-            return;
+            return prev;
         }
         ListNode* nxt = curr->next;
         curr->next = prev;
-        reverseLL(curr,nxt,newHead);
+        return reverseLL(curr,nxt);
     }
     ListNode* reverseList(ListNode* head) {
-        // we will handle all edge cases
-        // ListNode* prev = NULL;
-        // ListNode* curr = head;
-
-        // while(curr != NULL){
-        //     ListNode* nxt = curr->next;
-        //     curr->next = prev;
-        //     prev = curr;
-        //     curr = nxt;
-        // }
-        // return prev;
-
-        // recursive approach
-
         
         ListNode* prev = NULL;
         ListNode* curr = head;
         ListNode* newHead;
 
-        reverseLL(prev,curr,newHead);
-        return newHead;
+        return reverseLL(prev,curr);
+
 
     }
 };
