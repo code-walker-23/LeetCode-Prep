@@ -10,13 +10,20 @@ class Solution {
 public:
     bool hasCycle(ListNode *head) {
         // brute force
-        ListNode* slow = head;
-        ListNode* fast = head;
+        ListNode* prev = NULL;
+        ListNode* curr = head;
+        unordered_set<ListNode*> visited;
+        visited.insert(curr);
 
-        while(fast != NULL && fast->next != NULL){
-            slow = slow->next;
-            fast = fast->next->next;
-            if(slow == fast)return true;
+        while(curr != NULL){
+            prev = curr;
+            curr = curr->next;
+            if(curr != NULL){
+                if(visited.find(curr) != visited.end())
+                    return true;
+                else    
+                    visited.insert(curr);
+            }
         }
 
         return false;
