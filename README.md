@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2050-count-good-numbers) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2050-count-good-numbers) |
 ## Linked List
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0908-middle-of-the-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
