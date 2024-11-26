@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0283-move-zeroes) |
@@ -63,9 +64,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
