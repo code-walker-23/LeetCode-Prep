@@ -8,16 +8,22 @@ public:
 // Space Complexity -> mazimum depth will be n -> O(n). 
 
         void generateParenthesis(int openingBraces,int closingBraces,int n,vector<string> &res,string s){
-        if(openingBraces == n){
-            while(closingBraces < n){
-                s+=")";
-                closingBraces++;
-            }
-            res.push_back(s);
-            return;
+        // if(openingBraces == n){
+        //     while(closingBraces < n){
+        //         s+=")";
+        //         closingBraces++;
+        //     }
+        //     res.push_back(s);
+        //     return;
+        // }
+        // we can omit while in base case
+        if(openingBraces == n && closingBraces == n){
+           res.push_back(s);
+           return;
         }
-        generateParenthesis(openingBraces+1,closingBraces,n,res,s+"(");
-        if(openingBraces>closingBraces){
+        if(openingBraces < n)
+            generateParenthesis(openingBraces+1,closingBraces,n,res,s+"(");
+        if(openingBraces > closingBraces){
             generateParenthesis(openingBraces,closingBraces+1,n,res,s+")");
         }
     }
