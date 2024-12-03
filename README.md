@@ -75,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
