@@ -10,6 +10,8 @@
  * };
  */
 class Solution {
+    // Time Complexity -> O(n) -> inorder Traversal 
+    // Space Complexity -> O(n) -> we will try to omit this
 public:
     void inorderTraversal(TreeNode* root, vector<int>&v){
         if(root == NULL)return;
@@ -21,7 +23,7 @@ public:
     int kthSmallest(TreeNode* root, int k) {
         vector<int> v;
         inorderTraversal(root,v);
-
+        
         return v[k-1];
     }
 };
