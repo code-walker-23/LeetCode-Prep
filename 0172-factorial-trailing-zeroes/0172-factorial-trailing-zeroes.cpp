@@ -19,23 +19,35 @@ public:
     //     return count;
     // } 
 
+    // O(n)
+    // int trailingZeroes(int n) {
+    //     int twosCount = 0;
+    //     int fivesCount = 0;
+
+    //     for(int i = 1; i <= n; i++){
+    //         int num = i;
+    //         while(num%2 == 0){
+    //             twosCount++;
+    //             num/=2;
+    //         }
+    //         while(num%5 == 0){
+    //             fivesCount++;
+    //             num/=5;
+    //         }
+    //     }
+
+    //     return min(twosCount,fivesCount);
+
+    // }
+
+    // Time Complexity -> (5^k = n) ==> k = logn to the base 5 ==> O(logn)  
     int trailingZeroes(int n) {
-        int twosCount = 0;
-        int fivesCount = 0;
+       int count = 0;
 
-        for(int i = 1; i <= n; i++){
-            int num = i;
-            while(num%2 == 0){
-                twosCount++;
-                num/=2;
-            }
-            while(num%5 == 0){
-                fivesCount++;
-                num/=5;
-            }
-        }
-
-        return min(twosCount,fivesCount);
+       for(int i = 5; i <= n; i*=5){
+        count += n/i;
+       }
+       return count;
 
     } 
 };
