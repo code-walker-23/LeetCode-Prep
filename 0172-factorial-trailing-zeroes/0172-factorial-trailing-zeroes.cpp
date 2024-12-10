@@ -41,13 +41,19 @@ public:
     // }
 
     // Time Complexity -> (5^k = n) ==> k = logn to the base 5 ==> O(logn)  
+    // int trailingZeroes(int n) {
+    //    int count = 0;
+
+    //    for(int i = 5; i <= n; i*=5){
+    //     count += n/i;
+    //    }
+    //    return count;
+
+    // } 
+
+    // recursive approach
     int trailingZeroes(int n) {
-       int count = 0;
-
-       for(int i = 5; i <= n; i*=5){
-        count += n/i;
-       }
-       return count;
-
-    } 
+       
+       return n == 0 ? 0 : n/5 + trailingZeroes(n/5);
+    }
 };
