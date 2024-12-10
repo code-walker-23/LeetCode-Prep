@@ -40,7 +40,11 @@ public:
 
     // }
 
-    // Time Complexity -> (5^k = n) ==> k = logn to the base 5 ==> O(logn)  
+    // Time Complexity -> (5^k = n) ==> k = logn to the base 5 ==> O(logn) 
+    // every 2nd number is  multiple of 2 and every fifth number is multiple of 5
+    // when leap from i to i+5 we get three multiple of 2's so we can say that powe of 2 will be greater than the power of 5
+
+    // Thus we will only find the power of 5 which will be the min of 5 and 2 to    form trailing zeroes   
     // int trailingZeroes(int n) {
     //    int count = 0;
 
