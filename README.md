@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0073-set-matrix-zeroes) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0035-search-insert-position) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0784-insert-into-a-binary-search-tree) |
