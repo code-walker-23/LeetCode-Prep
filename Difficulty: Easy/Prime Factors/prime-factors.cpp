@@ -10,16 +10,46 @@ using namespace std;
 class Solution{
 	public:
 	vector<int>AllPrimeFactors(int N) {
-	    vector<int> res;
-	    for(int i = 2; N > 1; i++){
-	        if(N%i == 0){
-	            res.push_back(i);
-	            while(N%i == 0){
+	    // better solution
+	    // O(n)
+	   // vector<int> res;
+	   // for(int i = 2; N > 1; i++){
+	   //     if(N%i == 0){
+	   //         res.push_back(i);
+	   //         while(N%i == 0){
+	   //             N/=i;
+	   //         }
+	   //     }
+	   // }
+	   // return res;
+	   
+	   // naive solution
+	   //O(n*sqrt(n))
+	   //if(n == 2 || n == 3) return {n};
+	   //vector<int> v;
+	   //for(int i = 2; i < n; i++){
+	   //    if(isPrime(i)){
+	   //        int x = i;
+	   //        while(n%x == 0){
+	   //            v.push_back(i);
+	   //            x = x*i;
+	   //        }
+	   //    }
+	   //}
+	    
+	    // efficient
+	   vector<int> v;
+	   for(int i = 2; i*i <= N; i++){
+	       if(N%i == 0){
+	           v.push_back(i);
+	           while(N%i == 0){
 	                N/=i;
-	            }
-	        }
-	    }
-	    return res;
+	           }
+	       }
+	   }
+	   //cout << N << endl;
+	   if(N > 1)v.push_back(N);
+	   return v;
 	}
 };
 
