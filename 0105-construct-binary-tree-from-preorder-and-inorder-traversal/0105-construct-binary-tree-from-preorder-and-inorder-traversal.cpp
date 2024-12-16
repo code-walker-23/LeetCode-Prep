@@ -11,8 +11,11 @@
  */
 class Solution {
 public:
+// Time Compelxity -> O(n)
+// Space Complexity -> O(n)
     TreeNode* constructBinaryTree(int startPre,int endPre,vector<int>&preorder,int startIn,int endIn, vector<int>&inorder,map<int,int>&mapIn){
         // base case
+        // this arise when there is no left or right node
         if(startIn > endIn)return NULL;
 
         int rootVal = preorder[startPre];
@@ -33,12 +36,13 @@ public:
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
        // hashing of inorder
+       // O(n) -> n is the number of nodes
         map<int,int> mapIn;
         for(int i = 0; i < inorder.size(); i++){
             mapIn[inorder[i]] = i;
         }
 
-        // returning the root
+        // returning the root -> O(n)
        return constructBinaryTree(0,preorder.size()-1,preorder,0,inorder.size()-1,inorder,mapIn);
 
        
