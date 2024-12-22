@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0792-binary-search) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0098-validate-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0783-search-in-a-binary-search-tree) |
