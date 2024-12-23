@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0485-max-consecutive-ones) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -148,8 +150,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
