@@ -16,18 +16,20 @@ public:
         // return ans;
 
         // Better in constant space
-
+        // This Moore's Voting Algorithm
+        // If the majority element is there then it must be in majority in some portion of the array
         int n = nums.size();
-        int count = 1;
-        int element = nums[0];
+        int count = 0;
+        int element;
 
-        for(int i = 1; i < n; i++){
-            if(nums[i] == element)count++;
+        for(int i = 0; i < n; i++){
+            if(count == 0){
+                element = nums[i];
+                count = 1;
+            }
+            else if(nums[i] == element)count++;
             else count--;
 
-            if(count == 0){
-                element = nums[i+1];
-            }
         }
         return element;
     }
