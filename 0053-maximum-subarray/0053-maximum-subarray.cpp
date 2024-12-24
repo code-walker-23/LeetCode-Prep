@@ -17,3 +17,12 @@ public:
         return maxSum;
     }
 };
+
+
+//         int sum = nums[0];  // Start with the first element
+//         int maximum = nums[0];
+//         for (int i = 1; i < n; i++) {  // Start from the second element
+//             sum = max(nums[i], sum + nums[i]);  // Update the sum
+//             maximum = max(maximum, sum);  // Update the maximum
+//         }
+//         return maximum;
