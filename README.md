@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0257-binary-tree-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
