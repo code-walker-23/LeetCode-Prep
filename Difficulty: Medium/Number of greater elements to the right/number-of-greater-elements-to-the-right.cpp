@@ -9,21 +9,48 @@ using namespace std;
 
 class Solution{
 public:
-
+    // Time Complexity -> O(Q*x) => worst case Q = n, and Indices = [0,1,...,N-1] => O(N^2)
+    // Space -> O(Q)
     vector<int> count_NGE(int n, vector<int> &arr, int queries, vector<int> &indices){
-        vector<int>countNGES(queries);
+        // vector<int>countNGES(queries);
         
-        while(queries--){
-            int eleIdx = indices[queries];
-            int count = 0;
+        // while(queries--){
+        //     int eleIdx = indices[queries];
+        //     int count = 0;
             
-            for(int i = eleIdx+1; i < n; i++)
-                if(arr[eleIdx] < arr[i])count++;
+        //     for(int i = eleIdx+1; i < n; i++)
+        //         if(arr[eleIdx] < arr[i])count++;
             
-            countNGES[queries] = count;
-        }
+        //     countNGES[queries] = count;
+        // }
         
-        return countNGES;
+        // return countNGES;
+        
+       stack<int> s1;
+       stack<int> s2;
+       int el=0;
+       vector<int> count(n,0);
+       vector<int> ans;
+       
+       for(int i=n-1;i>=0;i--){
+           while(!s2.empty() && arr[i] < s2.top()){
+               el=s2.top();
+               s2.pop();
+               s1.push(el);
+           }
+           while(!s1.empty() && arr[i] >= s1.top()){
+               el=s1.top();
+               s1.pop();
+               s2.push(el);
+           }
+           if(!s1.empty()) count[i]=s1.size();
+           s1.push(arr[i]);
+       }
+       
+       for(int j=0;j<queries;j++){
+           ans.push_back(count[indices[j]]);
+       }
+       return ans;
     }
 
 };
