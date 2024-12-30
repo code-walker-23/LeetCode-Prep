@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0213-house-robber-ii) |
+| [2562-count-ways-to-build-good-strings](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2562-count-ways-to-build-good-strings) |
 ## Two Pointers
 |  |
 | ------- |
