@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0496-next-greater-element-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
