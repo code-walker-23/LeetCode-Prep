@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0257-binary-tree-paths) |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
