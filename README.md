@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0257-binary-tree-paths) |
+| [0812-rotate-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
