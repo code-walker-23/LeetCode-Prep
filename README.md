@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0231-power-of-two) |
+| [2032-largest-odd-number-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2050-count-good-numbers) |
 ## String
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0257-binary-tree-paths) |
 | [1078-remove-outermost-parentheses](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0199-binary-tree-right-side-view) |
 | [1731-even-odd-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1731-even-odd-tree) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
