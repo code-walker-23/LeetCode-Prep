@@ -2,13 +2,16 @@ class Solution {
 public:
     const int MOD = 1000000007;
 
+    // i have to remove equality one of them otherwise it includes twice duplicate in subarraycount
+
+    // eg ->  _,_,_,58,_,_,58 first 58 has pse = -1 nse = before second 58 and nse = n and second 58 has nse = n and pse = -1
     vector<int> previousSmallerElement(vector<int>& arr) {
         int n = arr.size();
         stack<int> s;
         vector<int> pse(n, -1);
 
         for (int i = 0; i < n; i++) {
-            while (!s.empty() && arr[s.top()] > arr[i]) {
+            while (!s.empty() && arr[s.top()] >= arr[i]) {
                 s.pop();
             }
             if (!s.empty()) {
@@ -25,7 +28,7 @@ public:
         vector<int> nse(n, n);
 
         for (int i = n - 1; i >= 0; i--) {
-            while (!s.empty() && arr[s.top()] >= arr[i]) {
+            while (!s.empty() && arr[s.top()] > arr[i]) {
                 s.pop();
             }
             if (!s.empty()) {
