@@ -1,6 +1,7 @@
 class Solution {
 public:
-    void subsequencesWithTarget(int idx,vector<int>arr,vector<int>v,vector<vector<int>>&res,int target, unordered_set<int>s){
+
+void subsequencesWithTarget(int idx,vector<int>arr,vector<int>v,vector<vector<int>>&res,int target, unordered_set<int>s){
         if(idx == arr.size()){
             if(target == 0){
                 res.push_back(v);
@@ -22,6 +23,7 @@ public:
         vector<vector<int>>res;
         vector<int>v;
         unordered_set<int>s;
+        // second method will be removing duplicates and then pass
         subsequencesWithTarget(0,candidates,v,res,target,s);
         return res;
     }
