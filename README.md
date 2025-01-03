@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0792-binary-search) |
 | [0943-sum-of-subarray-minimums](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
