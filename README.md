@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2465-shifting-letters-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2465-shifting-letters-ii) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2691-count-vowel-strings-in-ranges) |
