@@ -11,23 +11,49 @@ class Solution {
     	vis[src] = 1;
     
     	for(auto nbrs : adj[src]){
-    		if(vis[nbrs]){
-    			if(nbrs != parent){
-    			    return true;
-    			}
-    		}
-    		else if (dfs(nbrs,src,vis,adj)) return true;
+    		if(vis[nbrs] && nbrs != parent)return true;
+    		else if (!vis[nbrs] && dfs(nbrs,src,vis,adj))return true;
     	}
     	return false;
+    }
+    
+    bool bfs(int src,vector<int>&vis,vector<vector<int>>&adj){
+    	queue<pair<int,int>>q;
+    	vis[src] = 1;
+    	q.push({src,-1});
+    
+    	while(!q.empty()){
+    		pair<int,int>p = q.front();
+    		q.pop();
+    
+    		int node = p.first;
+    		int parent = p.second;
+    
+    		for(auto nbrs : adj[node]){
+    			if(!vis[nbrs])q.push({nbrs,node}),vis[nbrs]=1;
+    			else{
+    				if(nbrs != parent)return true;
+    			}
+    		}
+    	}
+    
+    	return false;
+    
     }
     
     bool isCycle(vector<vector<int>>& adj) {
     	int n = adj.size();
     	vector<int>vis(n,0);
         
+        // for(int i = 0; i < n; i++){
+        //     if(!vis[i]){
+        //         if(dfs(i,-1,vis,adj))return true;
+        //     }
+        // }
+    
         for(int i = 0; i < n; i++){
             if(!vis[i]){
-                if(dfs(i,-1,vis,adj))return true;
+                if(bfs(i,vis,adj))return true;
             }
         }
         
