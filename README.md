@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0792-binary-search) |
 | [0943-sum-of-subarray-minimums](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0943-sum-of-subarray-minimums) |
+| [1036-rotting-oranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0073-set-matrix-zeroes) |
+| [1036-rotting-oranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1036-rotting-oranges) |
 | [1731-even-odd-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1731-even-odd-tree) |
 ## Greedy
 |  |
