@@ -19,7 +19,6 @@ public:
 
     void solve(vector<vector<char>>& board) {
         int n = board.size();
-        if (n == 0) return;
         int m = board[0].size();
 
         // Step 1: Mark all 'O's connected to the boundary
