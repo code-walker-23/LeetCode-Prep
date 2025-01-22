@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0567-permutation-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Matrix
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0257-binary-tree-paths) |
+| [0567-permutation-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -311,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0547-number-of-provinces) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
