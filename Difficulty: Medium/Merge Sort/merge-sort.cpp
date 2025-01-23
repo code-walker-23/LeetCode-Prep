@@ -5,8 +5,9 @@ using namespace std;
 
 // } Driver Code Ends
 class Solution {
-  public:
-  // merge will take O(n+m) but both are equal then O(n)
+    // merge will take O(n+m) but both are equal then O(n)
+    // theta(nlogn)
+    public:
     void merge(vector<int>&arr,int start,int mid,int end){
         int i = start;
         int j = mid+1;
