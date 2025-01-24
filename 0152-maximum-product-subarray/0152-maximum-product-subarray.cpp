@@ -1,19 +1,22 @@
 class Solution {
 public:
-// brute force
     int maxProduct(vector<int>& nums) {
-        int maxProduct = INT_MIN;
         int n = nums.size();
+        int prefix = 1;
+        int suffix = 1;
+        int maxProduct = INT_MIN;
 
-        // generating all sub-arrays
         for(int i = 0; i < n; i++){
-            int product = 1;
-            for(int j = i; j < n; j++){
-                product *= nums[j];
-                maxProduct = max(maxProduct,product);
-            }
-        }
+            if(prefix == 0)prefix = 1;
+            if(suffix == 0)suffix = 1;
 
+            prefix = prefix*nums[i];
+            suffix = suffix*nums[n-i-1];
+
+            maxProduct = max(prefix,maxProduct);
+            maxProduct = max(suffix,maxProduct);
+        }
+        
         return maxProduct;
     }
 };
