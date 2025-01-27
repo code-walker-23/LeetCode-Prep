@@ -1,11 +1,15 @@
 class Solution {
 public:
+    // worst case complexity -> every element will put in the queue 
+    // for each element of queue there is -> k is average word size and there 26 iterations so total = k*26
+    // O(n*k*26) = O(n*k) but there is set also we can remove all elements from set
+    // O(n*k*26 + nlogn) 
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         // brute force
-        unordered_set<string>s;
+        set<string>s;
         for(auto word : wordList)s.insert(word);
         s.erase(beginWord);
-        
+
         queue<pair<string,int>>q;
         q.push({beginWord,1});
         int count = 0;
