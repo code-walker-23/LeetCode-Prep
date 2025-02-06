@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1073-number-of-enclaves) |
 ## Stack
 |  |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1073-number-of-enclaves) |
 | [1731-even-odd-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1731-even-odd-tree) |
@@ -331,11 +333,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0801-is-graph-bipartite) |
 ## Sliding Window
 |  |
 | ------- |
