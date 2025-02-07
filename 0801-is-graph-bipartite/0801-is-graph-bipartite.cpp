@@ -1,49 +1,29 @@
 class Solution {
 public:
 
-    void dfs(int src, vector<vector<int>>& adj, vector<int>& vis, unordered_set<int>& A, unordered_set<int>& B, bool& notBipartite) {
-        vis[src] = 1;
+    bool dfs(int src,int col,vector<vector<int>>&adj,vector<int>&color){
+        color[src] = col;
 
-        for (int nbr : adj[src]) {
-            if (A.count(src)) {  
-                if (A.count(nbr)) { 
-                    notBipartite = true;
-                    return;
-                }
-                if (!vis[nbr]) {  
-                    B.insert(nbr);
-                    dfs(nbr, adj, vis, A, B, notBipartite);
-                    if (notBipartite) return;
-                }
-            } else { 
-                if (B.count(nbr)) {
-                    notBipartite = true;
-                    return;
-                }
-                if (!vis[nbr]) {
-                    A.insert(nbr); 
-                    dfs(nbr, adj, vis, A, B, notBipartite);
-                    if (notBipartite) return;
-                }
+        for(auto nbrs : adj[src]){
+            if(color[nbrs] == -1){
+                if(dfs(nbrs,!col,adj,color) == false)return false;
             }
+            if(color[nbrs] == col)return false;
         }
+
+        return true;
     }
 
     bool isBipartite(vector<vector<int>>& graph) {
         int n = graph.size();
-        vector<int> vis(n, 0);
-        bool notBipartite = false;
-        unordered_set<int> A, B;
+        vector<int>color(n,-1);
 
-        for (int i = 0; i < n; i++) {
-            if (!vis[i]) {
-                A.insert(i);
-                dfs(i, graph, vis, A, B, notBipartite);
-                if (notBipartite) return false;
+        for(int i = 0; i < n; i++){
+            if(color[i] == -1){
+                if(dfs(i,0,graph,color) == false)return false;
             }
         }
-
-        return true; 
+        return true;
     }
 
 };
