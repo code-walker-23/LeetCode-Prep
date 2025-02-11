@@ -1,5 +1,6 @@
 class Solution {
 public:
+// we can merge these two functions as well
     void dfs(int src,vector<int>&vis,vector<int>&order,vector<vector<int>>&adj){
         vis[src] = 1;
 
