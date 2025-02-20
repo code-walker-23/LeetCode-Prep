@@ -19,18 +19,33 @@ class Solution {
         topoOrder.push_back(src);
         
     }
+    
     vector<int> topologicalSort(vector<vector<int>>& adj) {
         int n = adj.size();
-        vector<int>vis(n,0);
+        vector<int>indegree(n,0);
         vector<int>topoOrder;
+        queue<int>q;
+        // for(int i = 0;i < n; i++){
+        //     if(!vis[i]){
+        //         dfs(i,vis,topoOrder,adj);
+        //     }
+        // }
         
-        for(int i = 0;i < n; i++){
-            if(!vis[i]){
-                dfs(i,vis,topoOrder,adj);
+        for(int i = 0; i < n; i++){
+            for(auto nbr : adj[i])indegree[nbr]++;
+        }
+        for(int i = 0; i < n; i++)if(indegree[i] == 0)q.push(i);
+        
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            topoOrder.push_back(node);
+            
+            for(auto nbr : adj[node]){
+                indegree[nbr]--;
+                if(indegree[nbr] == 0)q.push(nbr);
             }
         }
-        
-        reverse(topoOrder.begin(),topoOrder.end());
         
         return topoOrder;
     }
