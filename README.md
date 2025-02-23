@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0078-subsets) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0542-01-matrix) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Breadth-First Search
 |  |
