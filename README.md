@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0054-spiral-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0130-surrounded-regions) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0189-rotate-array) |
