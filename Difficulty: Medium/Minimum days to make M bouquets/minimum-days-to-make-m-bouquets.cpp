@@ -45,7 +45,7 @@ class Solution {
             }
         }
 
-        return minDays; // Return the minimum speed found
+        return low; // Return the minimum speed found
     }
 };
 
