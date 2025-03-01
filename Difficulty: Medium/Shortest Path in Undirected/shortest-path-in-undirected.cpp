@@ -12,26 +12,26 @@ class Solution {
   public:
     // Function to find the shortest path from source to all other nodes
     vector<int> shortestPath(vector<vector<int>>& adj, int src) {
-        int n = adj.size();
-        vector<int>dis(n,-1);
-        
-        queue<int>q;
-        q.push(src);
-        dis[src] = 0;
-        
-        while(!q.empty()){
-            int node = q.front();
-            q.pop();
-            
-            for(auto nbr : adj[node]){
-                if(dis[nbr] == -1){
-                    q.push(nbr);
-                    dis[nbr] = dis[node] + 1;
-                }
-            }
-        }
-        
-        return dis;
+       int n = adj.size();
+       queue<int>q;
+       vector<int>dis(n,-1);
+       q.push(src);
+       dis[src] = 0;
+       
+       while(!q.empty()){
+           int node = q.front();
+           q.pop();
+           
+           for(auto nbr : adj[node]){
+               if(dis[nbr] == -1){
+                   dis[nbr] = dis[node]+1;
+                   q.push(nbr);
+               }
+           }
+       }
+       
+       return dis;
+       
     }
 };
 
