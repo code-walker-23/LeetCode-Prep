@@ -8,6 +8,7 @@ using namespace std;
 // } Driver Code Ends
 
 // User function Template for C++
+// we do not have a problem with negative edges but we have problem with negative weight cycles
 class Solution {
   public:
     void topoSort(vector<vector<pair<int,int>>>&adj,int src,vector<int>&vis,stack<int>&topo){
@@ -38,8 +39,10 @@ class Solution {
             if(!vis[i])topoSort(adj,i,vis,topo);
         }
         
+        
         vector<int>dis(V,1e9);
         dis[0] = 0;
+        // we are using topoSort because we do not wanna update the dis of processed node again and again
         
         while(!topo.empty()){
             int top = topo.top();
