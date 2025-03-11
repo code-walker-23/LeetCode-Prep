@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1073-number-of-enclaves) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0943-sum-of-subarray-minimums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2562-count-ways-to-build-good-strings) |
 ## Two Pointers
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0907-koko-eating-bananas) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2032-largest-odd-number-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
