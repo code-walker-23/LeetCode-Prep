@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0560-subarray-sum-equals-k) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0907-koko-eating-bananas) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2562-count-ways-to-build-good-strings) |
@@ -373,10 +375,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Merge Sort
 |  |
 | ------- |
