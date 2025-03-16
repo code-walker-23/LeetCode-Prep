@@ -44,7 +44,7 @@ public:
         return min(leftDis,rightDis);
     }
     vector<int> solveQueries(vector<int>& nums, vector<int>& queries) {
-        map<int, vector<int>> mapi;
+        unordered_map<int, vector<int>> mapi;
         vector<int> res;
 
         for (int i = 0; i < nums.size(); i++) {
