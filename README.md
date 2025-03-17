@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2465-shifting-letters-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
 ## Recursion
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0014-longest-common-prefix) |
+| [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
 ## String Matching
 |  |
 | ------- |
