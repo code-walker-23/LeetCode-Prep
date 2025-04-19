@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0300-longest-increasing-subsequence) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0496-next-greater-element-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0567-permutation-in-string) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0231-power-of-two) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Backtracking
 |  |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
 ## String Matching
 |  |
