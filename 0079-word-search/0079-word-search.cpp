@@ -10,7 +10,7 @@ public:
         if (start == word.size() - 1)
             return true;
 
-        char temp = board[i][j];
+        // char temp = board[i][j];
         board[i][j] = '$'; // Mark as visited
 
         int del[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};
@@ -22,7 +22,7 @@ public:
                 return true;
         }
 
-        board[i][j] = temp; // Restore original char
+        board[i][j] = word[start]; // Restore original char
         return false;
     }
 
