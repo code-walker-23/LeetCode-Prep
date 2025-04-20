@@ -57,14 +57,17 @@ public :
 class Solution {
 public:
     void dfs(int i,int j,Node* head,vector<vector<char>>&board,vector<string>&res){
-        if(head->word != ""){
-            res.push_back(head->word);
-            head->word = "";
-        }
+
         if(i < 0 || i == board.size() || j < 0 || j == board[0].size())return;
         if(board[i][j] == '$')return;
+        
         char ch = board[i][j];
         if(head->arr[ch-'a'] == NULL)return;
+        // we have to remove duplicacy beacuse this may be inserted before
+        if(head->arr[ch-'a']->word != ""){
+            res.push_back(head->arr[ch-'a']->word);
+            head->arr[ch-'a']->word = "";
+        }
 
         int del[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};
         Node* next = head->arr[ch-'a'];
@@ -87,13 +90,17 @@ public:
         Trie* obj = new Trie();
         vector<string>res;
 
+        // W*L where W is the size of words and L is the avg size of any words[i]
         for(int i = 0; i < n; i++)obj->insert(words[i]);
-
+        //  (n*m*4^L)
         for(int i = 0; i < board.size(); i++){
             for(int j = 0; j < board[0].size(); j++){
+                // for each cell as starting -> O(4^L) approx O(3^L)[exluding the cell it comes from]
                 dfs(i,j,obj->getRoot(),board,res);
             }
         }
+        // Total -> O(W*L + n*m*4^L) = O(n*m*4^L) 
+        // suppose worst scenerio from constraints -> (12*12*4^10) = 144*1048576 = 150994944 = O(10^8) 
 
         return res;
     }
