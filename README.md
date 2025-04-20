@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0300-longest-increasing-subsequence) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0130-surrounded-regions) |
+| [0212-word-search-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0212-word-search-ii) |
 | [0542-01-matrix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1036-rotting-oranges) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0257-binary-tree-paths) |
 | [0567-permutation-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0812-rotate-string) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0126-word-ladder-ii) |
+| [0212-word-search-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
 ## String Matching
