@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2465-shifting-letters-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0268-missing-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2050-count-good-numbers) |
 ## String
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Backtracking
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0257-binary-tree-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
 | ------- |
@@ -444,4 +448,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0208-implement-trie-prefix-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
