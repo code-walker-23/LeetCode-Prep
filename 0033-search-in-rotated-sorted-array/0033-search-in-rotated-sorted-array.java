@@ -9,7 +9,7 @@ class Solution {
 
             if(nums[mid] == target)return mid;
 
-            if(nums[mid] <= nums[n-1]){
+            if(nums[mid] < nums[n-1]){
                 // no rotation
                 if(nums[mid] < target && target <= nums[n-1])low = mid+1;
                 else high = mid-1;
