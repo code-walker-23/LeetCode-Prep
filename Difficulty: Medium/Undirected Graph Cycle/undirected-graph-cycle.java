@@ -8,9 +8,31 @@ class Solution {
                 if(isExist)return true;
             }else if(nbr != parent)return true;
         }
+        // After iterating all the nbrs and then we will return that there is no cycle with src(keep on changing on each call) 
+        return false;
+    }
+    
+    public boolean bfs(int src,int[] vis,ArrayList<ArrayList<Integer>>adj){
+        Queue<int[]>q = new LinkedList<>();
+        vis[src] = 1;
+        q.add(new int[]{src,-1});
+        
+        while(!q.isEmpty()){
+            int[] num = q.remove();
+            int u = num[0];
+            int parent = num[1];
+            
+            for(int nbr : adj.get(u)){
+                if(vis[nbr] == 0){
+                    q.add(new int[]{nbr,u});
+                    vis[nbr] = 1;
+                }else if(nbr != parent)return true;
+            }
+        }
         
         return false;
     }
+    
     public boolean isCycle(int V, int[][] edges) {
         // Code here
         ArrayList<ArrayList<Integer>>adj = new ArrayList<>(V);
@@ -30,7 +52,7 @@ class Solution {
         int[] vis = new int[V];
         for(int i = 0; i < V; i++){
             if(vis[i] == 0){
-                if(dfs(i,-1,vis,adj))return true;
+                if(bfs(i,vis,adj))return true;
             }
         }
         
