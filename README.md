@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
+| [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1073-number-of-enclaves) |
+| [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2562-count-ways-to-build-good-strings](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2562-count-ways-to-build-good-strings) |
+| [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
 ## Two Pointers
 |  |
 | ------- |
