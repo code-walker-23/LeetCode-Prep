@@ -14,7 +14,7 @@ public:
             while(j > idx){
                 if(nums[j] > nums[idx]){
                     swap(nums[j],nums[idx]);
-                    sort(nums.begin()+idx+1,nums.end());
+                    reverse(nums.begin()+idx+1,nums.end());
                     break;
                 }
                 j--;
