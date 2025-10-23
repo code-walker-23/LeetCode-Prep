@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0648-replace-words) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/code-walker-23/LeetCode-Prep/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Matrix
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/code-walker-23/LeetCode-Prep/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/code-walker-23/LeetCode-Prep/tree/master/0169-majority-element) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/code-walker-23/LeetCode-Prep/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2032-largest-odd-number-in-string) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/code-walker-23/LeetCode-Prep/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -469,4 +473,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/code-walker-23/LeetCode-Prep/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
