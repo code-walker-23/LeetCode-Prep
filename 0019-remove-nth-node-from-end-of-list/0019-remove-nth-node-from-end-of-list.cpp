@@ -10,39 +10,28 @@
  */
 class Solution {
 public:
-    int len(ListNode* head){
-        ListNode* temp = head;
-        int count = 0;
-
-        while(temp != NULL){
-            count++;
-            temp= temp->next;
+    int length(ListNode* head){
+        int l = 0;
+        while(head){
+            l++;
+            head = head->next;
         }
-
-        return count;
+        return l;
     }
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        cout << len(head) << endl;
-        int k = len(head)-n;
-        
-        if (k == 0) {
-            // ListNode* toDelete = head;
+        int k = length(head)-n+1;
+        if(k == 1){
             head = head->next;
-            // delete toDelete;
             return head;
         }
-
+        int p = 1;
         ListNode* temp = head;
-        int count = 0;
-
-        // Traverse to the node just before the one to delete
-        while (count < k - 1) {
+        while(p < k-1){
+            p++;
             temp = temp->next;
-            count++;
         }
-
-        temp->next = temp->next->next;
-        // delete toDelete;
+        ListNode* nxt = temp->next->next;
+        temp->next = nxt;
         return head;
     }
 };
