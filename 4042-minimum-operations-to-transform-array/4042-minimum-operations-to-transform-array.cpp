@@ -11,7 +11,30 @@ public:
             int l = min(nums1[i],nums2[i]);
             int h = max(nums1[i],nums2[i]);
             if(nums2[n] >= l && nums2[n] <= h)return op;
-            else minOp = min(minOp,min(abs(nums2[n]-l),abs(nums2[n]-h)));
+            else{
+                // if(nums1[i] < nums2[i]){
+                //     int ex = 0;
+                //     if(nums2[n] < nums1[i]){
+                //         ex = (nums2[i]-nums2[n]) + (nums1[i]-nums2[n]);
+                //     }else{
+                //         ex = (nums2[n]-nums1[i]) + (nums2[n]-nums2[i]);
+                //     }
+                //     minOp = min(minOp,ex);
+                // }else{
+                //     int ex = 0;
+                //     if(nums2[n] > nums1[i]){
+                //         ex = (nums2[n]-nums1[i]) + (nums2[n]-nums2[i]);
+                //     }else{
+                //         ex = (nums2[n]-nums2[i]) + (nums2[n]-nums1[i]);
+                //     }
+                //     minOp = min(minOp,ex);
+                // }
+                if(nums2[n] < l){
+                    minOp = min(minOp,abs(l-nums2[n]));
+                }else{
+                    minOp = min(minOp,abs(h-nums2[n]));
+                }
+            }
         }
         return op+minOp;
     }

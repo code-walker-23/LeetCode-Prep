@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/code-walker-23/LeetCode-Prep/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
 | [3927-minimum-cost-path-with-alternating-directions-ii](https://github.com/code-walker-23/LeetCode-Prep/tree/master/3927-minimum-cost-path-with-alternating-directions-ii) |
+| [4042-minimum-operations-to-transform-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/4042-minimum-operations-to-transform-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/code-walker-23/LeetCode-Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/code-walker-23/LeetCode-Prep/tree/master/2032-largest-odd-number-in-string) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/code-walker-23/LeetCode-Prep/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4042-minimum-operations-to-transform-array](https://github.com/code-walker-23/LeetCode-Prep/tree/master/4042-minimum-operations-to-transform-array) |
 ## Trie
 |  |
 | ------- |
